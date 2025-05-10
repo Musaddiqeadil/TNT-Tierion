@@ -396,12 +396,11 @@ button{
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  margin-top: 0px;
-  margin-right: auto;
-  margin-bottom: 0px;
-  margin-left: auto;
+  align-items: center;
   justify-content: space-evenly;
-  margin: 50px 0 100px 0;
+  margin-bottom: 60px;
+
+  
 }
 
 .team-head-text {
@@ -446,6 +445,7 @@ button{
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 39px;
 }
 
 .card-t:hover {
