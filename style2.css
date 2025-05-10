@@ -170,6 +170,7 @@ button{
   text-decoration: none;
 }
 
+
 .nav-container .hero-btn.hollow {
   background-color: transparent;
   color: #03103b;
@@ -399,6 +400,8 @@ button{
   align-items: center;
   justify-content: space-evenly;
   margin-bottom: 60px;
+  gap: 30PX;
+  
 
   
 }
@@ -445,7 +448,6 @@ button{
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 39px;
 }
 
 .card-t:hover {
